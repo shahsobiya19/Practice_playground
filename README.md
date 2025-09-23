@@ -92,7 +92,7 @@ Now you have a local copy of the repository. 🖥️
    git checkout -b your-branch-name
    ```
 
-   *Tip: Use descriptive names for your branch, like `fix-typo`, `add-feature`, or `update-readme`.*
+   *Tip: Use Your names for your branch, like `maqsood`, `zakir`.*
 
 3. To check if you’re on the correct branch, run:
 
